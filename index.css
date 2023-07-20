@@ -1,0 +1,30 @@
+   /* Basic CSS styles for the header and footer */
+   body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* CSS styles for the main content */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
